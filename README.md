@@ -18,8 +18,6 @@ Com ele, você pode salvar, editar, copiar e visualizar prompts rapidamente, man
 
 - Interface moderna e responsiva
 
-- Ideal para tarefas diárias, listas, ideias e anotações estratégicas
-
 
 
 <h3> Este projeto foi construído com: </h3>
