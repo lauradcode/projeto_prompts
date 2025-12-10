@@ -54,4 +54,6 @@ A conexão via MCP permitiu que o Copilot:
 - interpretasse medidas, espaçamentos, cores e estrutura
 
 - sugerisse código HTML/CSS
-  
+
+
+Este projeto nasceu a partir de um evento da Rocketseat.
